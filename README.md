@@ -7,7 +7,7 @@ https://www.udemy.com/course/flutter-bootcamp-with-dart/learn/practice/1164499#o
 
 # Modifications i made later on 
 
-- Used a more  acuurate bmi calculation
+- i used a more  accurate  bmi calculation.
 
 # Future plans 
 - TBD
